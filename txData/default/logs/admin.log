@@ -1,0 +1,10 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 7.10.2023, 20:19:47
+================================================================
+[20:20:12][Chris-Snow] created admins file
+[20:20:53][Chris-Snow] Changing global settings via setup stepper and started Deployer.
+[20:22:31][Chris-Snow] Setting recipe.
+[20:23:29][Chris-Snow] Running recipe.
+[20:27:58][Chris-Snow] Completed and committed server deploy.
+[20:35:47][Chris-Snow] logged in via in-game ui
